@@ -14,7 +14,7 @@ Read Section 3 in the pdf to learn more about how the datasets are merged togeth
 ## Installation
 You can download the datasets and the <b>Indepent Project Everything.pynb</b> folder. The folder includes the code needed to merge the datasets together for it to be ready for any model. However, you can find the code used to conduct the three separate linear regression tests, visualizations and statistical tests used to help support the testing of new models, and the follow-up tests done to check if the model meets the Gauss-Markov assumptions for a reliable interpretation of the results.
 
-You can read the <b>DA Independent Research Project.pdf</b> document to learn more about the hypothesis, features, methods, process and the results.
+You can read the <b>DA Independent Research Project.pdf</b> document to learn more about the hypothesis, features, methods, process and the results. You can also read the pynotebook to find graphs that are behind feature transformations.
 
 ## Usage
 <b> Final Model Results </b><br/> 
